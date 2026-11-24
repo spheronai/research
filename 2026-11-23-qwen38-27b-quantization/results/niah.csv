@@ -1,0 +1,37 @@
+arm,format,task,length_tokens,n,accuracy
+A,BF16,multikey,32768,100,1.0
+A,BF16,multikey,8192,100,1.0
+A,BF16,multivalue,32768,100,1.0
+A,BF16,multivalue,8192,100,1.0
+A,BF16,single,32768,100,1.0
+A,BF16,single,8192,100,1.0
+B,FP8,multikey,32768,100,1.0
+B,FP8,multikey,8192,100,1.0
+B,FP8,multivalue,32768,100,1.0
+B,FP8,multivalue,8192,100,1.0
+B,FP8,single,32768,100,1.0
+B,FP8,single,8192,100,1.0
+C,NVFP4,multikey,32768,100,1.0
+C,NVFP4,multikey,8192,100,1.0
+C,NVFP4,multivalue,32768,100,1.0
+C,NVFP4,multivalue,8192,100,1.0
+C,NVFP4,single,32768,100,1.0
+C,NVFP4,single,8192,100,1.0
+D,INT4-AWQ,multikey,32768,100,1.0
+D,INT4-AWQ,multikey,8192,100,1.0
+D,INT4-AWQ,multivalue,32768,100,1.0
+D,INT4-AWQ,multivalue,8192,100,1.0
+D,INT4-AWQ,single,32768,100,1.0
+D,INT4-AWQ,single,8192,100,1.0
+E,FP8 + FP8 KV,multikey,32768,100,1.0
+E,FP8 + FP8 KV,multikey,8192,100,1.0
+E,FP8 + FP8 KV,multivalue,32768,100,1.0
+E,FP8 + FP8 KV,multivalue,8192,100,1.0
+E,FP8 + FP8 KV,single,32768,100,1.0
+E,FP8 + FP8 KV,single,8192,100,1.0
+F,NVFP4 as shipped (FP8 KV),multikey,32768,100,1.0
+F,NVFP4 as shipped (FP8 KV),multikey,8192,100,1.0
+F,NVFP4 as shipped (FP8 KV),multivalue,32768,100,1.0
+F,NVFP4 as shipped (FP8 KV),multivalue,8192,100,1.0
+F,NVFP4 as shipped (FP8 KV),single,32768,100,1.0
+F,NVFP4 as shipped (FP8 KV),single,8192,100,1.0
