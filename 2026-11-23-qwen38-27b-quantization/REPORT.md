@@ -118,9 +118,9 @@ We publish these so the numbers can be judged with them in mind.
 - `charts/`: the charts above.
 - `harness/`: the scripts that ran the study (setup, per-arm runner, needle test, analysis).
 - `DATA.md`: what every column means.
-- `raw/` (177 MB unpacked: per-question eval outputs, needle results, benchmark JSON, server logs, power samples and environment records) is too large for git. Download [study1-qwen38-27b-quantization-raw.tar.gz](https://github.com/spheronai/gpu-benchmarks/releases/download/2026.11.24/study1-qwen38-27b-quantization-raw.tar.gz) from release 2026.11.24 and unpack it in this folder. The VM hostname and GPU serial numbers were removed from the environment records.
+- `raw/` (177 MB unpacked: per-question eval outputs, needle results, benchmark JSON, server logs, power samples and environment records) is too large for git. Download [study1-qwen38-27b-quantization-raw.tar.gz](https://github.com/spheronai/research/releases/download/2026.11.25/study1-qwen38-27b-quantization-raw.tar.gz) from release 2026.11.25 of this repository and unpack it in this folder. The VM hostname and GPU serial numbers were removed from the environment records.
 
-The 60 throughput runs (arms A to D, three repeats per level) are also in the repository catalog, [data/catalog.csv](../../data/catalog.csv), as rows 491 to 550 with area `research`, so a single run can be cited as "Spheron GPU Benchmarks 2026.11.24, row N".
+The 60 throughput runs (arms A to D, three repeats per level) are also in the [Spheron GPU Benchmarks](https://github.com/spheronai/gpu-benchmarks) catalog, [data/catalog.csv](https://github.com/spheronai/gpu-benchmarks/blob/main/data/catalog.csv), as rows 491 to 550 with area `research`, so a single run can be cited as "Spheron GPU Benchmarks 2026.11.24, row N".
 
 Data under CC BY 4.0, scripts under MIT.
 
@@ -129,7 +129,7 @@ Data under CC BY 4.0, scripts under MIT.
 ```
 Spheron Research (2026). FP8 vs NVFP4 vs AWQ: which Qwen3.8-27B checkpoint should you serve? Measured 23 Nov 2026, published 27 Nov 2026, version 1.
 https://www.spheron.network/research/qwen38-27b-fp8-vs-nvfp4-vs-awq/
-Raw data: https://github.com/spheronai/gpu-benchmarks/tree/main/research/2026-11-23-qwen38-27b-quantization
+Raw data: https://github.com/spheronai/research/tree/main/2026-11-23-qwen38-27b-quantization
 ```
 
 ```bibtex

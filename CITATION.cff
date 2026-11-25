@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use or quote these studies, please cite the study you used. Each REPORT.md has its own citation."
+title: "Spheron Research studies"
+type: dataset
+authors:
+  - name: "Spheron Research"
+    website: "https://www.spheron.network/research/"
+version: "2026.11.25"
+date-released: "2026-11-25"
+repository-code: "https://github.com/spheronai/research"
+url: "https://github.com/spheronai/research"
+license:
+  - CC-BY-4.0
+  - MIT
+abstract: >-
+  Pre-registered GPU studies by Spheron Research. Each study folder holds its
+  frozen plan, report, the scripts that ran it, derived results and charts.
+  Raw data is attached to the releases. Data and charts are CC BY 4.0; code is MIT.
+keywords:
+  - gpu
+  - llm inference
+  - quantization
+  - camera motion
+  - depth anything
+  - benchmark

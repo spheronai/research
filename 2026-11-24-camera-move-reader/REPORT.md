@@ -245,7 +245,7 @@ The next run would have to fix that, and it is a bigger job than this one:
 - `notes/ledger.md`: run log, every event and change with times.
 - `notes/prior_art.md`: prior-art check.
 - `harness/`: all code. Rendering, labeller, baselines, training, scoring, re-shoot, exporters, human-move and real-shot scripts.
-- `raw/` is not stored in this repository (about 2.3 GB, mostly logs). The clip specs, exact cameras and ground-truth move cards for all 8,093 clips are published as the `run1` config of the study 2 dataset archive. Download: https://huggingface.co/datasets/spheron/camera-move-cards (Hugging Face), or the same files as one archive: https://github.com/spheronai/gpu-benchmarks/releases/download/2026.11.25/study2-camera-move-reader-dataset.tar.gz. Model weights, logs and frames are not published. The unpublished `raw/` folder holds:
+- `raw/` is not stored in this repository (about 2.3 GB, mostly logs). The clip specs, exact cameras and ground-truth move cards for all 8,093 clips are published as the `run1` config of the study 2 dataset archive. Download: https://huggingface.co/datasets/spheron/camera-move-cards (Hugging Face), or the same files as one archive: https://github.com/spheronai/research/releases/download/2026.11.25/study2-camera-move-reader-dataset.tar.gz. Model weights, logs and frames are not published. The unpublished `raw/` folder holds:
 - `raw/results/`:
   - `results_*.json`: every metric with intervals and by-type breakdowns.
   - `reshoot*.json`: re-shoot scores, per clip and paired.
@@ -261,7 +261,7 @@ The next run would have to fix that, and it is a bigger job than this one:
 ```
 Spheron Research (2026). Can a small model read a camera move well enough to re-shoot it? Measured 24 Nov 2026, published 25 Nov 2026, version 1.
 https://www.spheron.network/research/camera-move-reader-vs-depth-anything-3/
-Raw data: https://github.com/spheronai/gpu-benchmarks/tree/main/research/2026-11-24-camera-move-reader
+Raw data: https://github.com/spheronai/research/tree/main/2026-11-24-camera-move-reader
 ```
 
 ```bibtex
@@ -271,7 +271,7 @@ Raw data: https://github.com/spheronai/gpu-benchmarks/tree/main/research/2026-11
   year         = {2026},
   note         = {Measured 24 Nov 2026, published 25 Nov 2026, version 1},
   howpublished = {\url{https://www.spheron.network/research/camera-move-reader-vs-depth-anything-3/}},
-  url          = {https://github.com/spheronai/gpu-benchmarks/tree/main/research/2026-11-24-camera-move-reader}
+  url          = {https://github.com/spheronai/research/tree/main/2026-11-24-camera-move-reader}
 }
 ```
 

@@ -64,7 +64,7 @@ Median of the 3 repeats per arm and concurrency, plus:
 
 ## raw/
 
-`raw/` is attached to release 2026.11.24 of the repository as `study1-qwen38-27b-quantization-raw.tar.gz` rather than kept in git. Unpack it in this folder before running `harness/analyze.py`. The VM hostname and the GPU serial numbers and UUIDs were removed from `env/`.
+`raw/` is attached to release 2026.11.25 of this repository as `study1-qwen38-27b-quantization-raw.tar.gz` rather than kept in git. Unpack it in this folder before running `harness/analyze.py`. The VM hostname and the GPU serial numbers and UUIDs were removed from `env/`.
 
 | Path | Contents |
 |---|---|

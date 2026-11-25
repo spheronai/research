@@ -152,8 +152,8 @@ Listed in full with times in `notes/ledger.md`. The ones that touch results:
 
 ## Raw data
 
-- Public repo folder: https://github.com/spheronai/gpu-benchmarks/tree/main/research/2026-11-25-camera-move-reader-2
-- `raw/` (about 1.8 GB, mostly logs) is not stored in the repository. Its clip specs, exact cameras, ground-truth move cards and per-clip scores are published as Parquet in one archive (about 49 MB, configs `clips`, `predictions` and `run1`, dataset card in `README.md`). Download: https://huggingface.co/datasets/spheron/camera-move-cards (Hugging Face), or the same files as one archive: https://github.com/spheronai/gpu-benchmarks/releases/download/2026.11.25/study2-camera-move-reader-dataset.tar.gz. Model weights, logs and frames are not published.
+- Public repo folder: https://github.com/spheronai/research/tree/main/2026-11-25-camera-move-reader-2
+- `raw/` (about 1.8 GB, mostly logs) is not stored in the repository. Its clip specs, exact cameras, ground-truth move cards and per-clip scores are published as Parquet in one archive (about 49 MB, configs `clips`, `predictions` and `run1`, dataset card in `README.md`). Download: https://huggingface.co/datasets/spheron/camera-move-cards (Hugging Face), or the same files as one archive: https://github.com/spheronai/research/releases/download/2026.11.25/study2-camera-move-reader-dataset.tar.gz. Model weights, logs and frames are not published.
 - Column definitions: `DATA.md`.
 
 ## Files
@@ -173,7 +173,7 @@ Listed in full with times in `notes/ledger.md`. The ones that touch results:
 ```
 Spheron Research (2026). Does a camera move reader trained on more than one kind of motion beat Depth Anything 3 plus rules? Measured 24-25 Nov 2026, published 25 Nov 2026, version 1.
 https://www.spheron.network/research/camera-move-reader-vs-depth-anything-3/
-Raw data: https://github.com/spheronai/gpu-benchmarks/tree/main/research/2026-11-25-camera-move-reader-2
+Raw data: https://github.com/spheronai/research/tree/main/2026-11-25-camera-move-reader-2
 ```
 
 ```bibtex
@@ -183,7 +183,7 @@ Raw data: https://github.com/spheronai/gpu-benchmarks/tree/main/research/2026-11
   year         = {2026},
   note         = {Measured 24-25 Nov 2026, published 25 Nov 2026, version 1},
   howpublished = {\url{https://www.spheron.network/research/camera-move-reader-vs-depth-anything-3/}},
-  url          = {https://github.com/spheronai/gpu-benchmarks/tree/main/research/2026-11-25-camera-move-reader-2}
+  url          = {https://github.com/spheronai/research/tree/main/2026-11-25-camera-move-reader-2}
 }
 ```
 
