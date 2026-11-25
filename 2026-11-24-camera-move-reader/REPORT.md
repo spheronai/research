@@ -245,7 +245,7 @@ The next run would have to fix that, and it is a bigger job than this one:
 - `notes/ledger.md`: run log, every event and change with times.
 - `notes/prior_art.md`: prior-art check.
 - `harness/`: all code. Rendering, labeller, baselines, training, scoring, re-shoot, exporters, human-move and real-shot scripts.
-- `raw/` is not stored in this repository (about 2.3 GB, mostly logs). The clip specs, exact cameras and ground-truth move cards for all 8,093 clips are published as the `run1` config of the study 2 dataset archive. Download: https://github.com/spheronai/gpu-benchmarks/releases/download/2026.11.25/study2-camera-move-reader-dataset.tar.gz. Model weights, logs and frames are not published. The unpublished `raw/` folder holds:
+- `raw/` is not stored in this repository (about 2.3 GB, mostly logs). The clip specs, exact cameras and ground-truth move cards for all 8,093 clips are published as the `run1` config of the study 2 dataset archive. Download: https://huggingface.co/datasets/spheron/camera-move-cards (Hugging Face), or the same files as one archive: https://github.com/spheronai/gpu-benchmarks/releases/download/2026.11.25/study2-camera-move-reader-dataset.tar.gz. Model weights, logs and frames are not published. The unpublished `raw/` folder holds:
 - `raw/results/`:
   - `results_*.json`: every metric with intervals and by-type breakdowns.
   - `reshoot*.json`: re-shoot scores, per clip and paired.
