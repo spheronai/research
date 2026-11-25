@@ -1,0 +1,13 @@
+comparison,metric,mean_diff,ci_lo,ci_hi,first_better_share
+D_minus_B,psnr,-0.3079,-0.5609,-0.0853,0.5
+D_minus_B,ssim,-0.0155,-0.0247,-0.0068,0.475
+D_minus_B,lpips,-0.0116,-0.018,-0.0049,0.56
+B_minus_A2,psnr,0.2409,-1.0511,1.3696,0.715
+B_minus_A2,ssim,0.0306,0.0144,0.0469,0.625
+B_minus_A2,lpips,-0.1156,-0.1343,-0.0961,0.76
+D_minus_STATIC,psnr,0.8193,-0.6564,2.0693,0.84
+D_minus_STATIC,ssim,0.0397,0.024,0.055,0.775
+D_minus_STATIC,lpips,-0.1583,-0.1752,-0.142,0.89
+B_minus_STATIC,psnr,1.1272,-0.1185,2.3072,0.835
+B_minus_STATIC,ssim,0.0552,0.0407,0.07,0.745
+B_minus_STATIC,lpips,-0.1466,-0.1627,-0.1292,0.88

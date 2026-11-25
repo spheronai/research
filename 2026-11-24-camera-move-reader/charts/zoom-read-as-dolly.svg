@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="316.8pt" viewBox="0 0 792 316.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>How often a pure zoom is reported as a dolly</title>
+ <desc>Share of zoom clips with no dolly that each arm reports as a dolly. On unseen scenes: our head 15% and 5% (two seeds) against 75% for Depth Anything 3 plus rules. Numbers are in REPORT.md and results/by_type.csv.</desc>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 316.8 
+L 792 316.8 
+L 792 0 
+L 0 0 
+z
+" style="fill: #050608"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 158.4 262.944 
+L 446.060377 262.944 
+L 446.060377 95.04 
+L 158.4 95.04 
+z
+" style="fill: #050608"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 158.4 262.944 
+L 158.4 95.04 
+" clip-path="url(#peee858a4b9)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <!-- 0 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(155.367969 278.465484) scale(0.1 -0.1)">
+       <defs>
+        <path id="SFProDisplay-Regular-452" d="M 1944 -75 
+C 2994 -75 3600 834 3600 2259 
+C 3600 3675 2991 4584 1944 4584 
+C 897 4584 281 3669 281 2256 
+C 281 831 891 -75 1944 -75 
+z
+M 1944 416 
+C 1238 416 847 1134 847 2259 
+C 847 3359 1247 4091 1944 4091 
+C 2641 4091 3034 3366 3034 2256 
+C 3034 1131 2647 416 1944 416 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SFProDisplay-Regular-452"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 215.932075 262.944 
+L 215.932075 95.04 
+" clip-path="url(#peee858a4b9)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <!-- 20 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(210.070357 278.465484) scale(0.1 -0.1)">
+       <defs>
+        <path id="SFProDisplay-Regular-454" d="M 338 3209 
+L 338 3206 
+L 881 3206 
+L 881 3209 
+C 881 3713 1281 4094 1809 4094 
+C 2306 4094 2703 3747 2703 3313 
+C 2703 2938 2559 2697 1953 2059 
+L 366 388 
+L 366 0 
+L 3341 0 
+L 3341 500 
+L 1144 500 
+L 1144 513 
+L 2284 1691 
+C 3038 2469 3266 2844 3266 3347 
+C 3266 4038 2631 4584 1825 4584 
+C 975 4584 338 3997 338 3209 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SFProDisplay-Regular-454"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(56.59375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 273.464151 262.944 
+L 273.464151 95.04 
+" clip-path="url(#peee858a4b9)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <!-- 40 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(267.40712 278.465484) scale(0.1 -0.1)">
+       <defs>
+        <path id="SFProDisplay-Regular-456" d="M 2509 0 
+L 3053 0 
+L 3053 938 
+L 3691 938 
+L 3691 1431 
+L 3053 1431 
+L 3053 4509 
+L 2222 4509 
+C 1156 2981 628 2159 244 1447 
+L 244 938 
+L 2509 938 
+L 2509 0 
+z
+M 800 1444 
+C 1156 2069 1647 2822 2500 4041 
+L 2509 4041 
+L 2509 1431 
+L 800 1431 
+L 800 1444 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SFProDisplay-Regular-456"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(60.5 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 330.996226 262.944 
+L 330.996226 95.04 
+" clip-path="url(#peee858a4b9)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <!-- 60 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(324.971226 278.465484) scale(0.1 -0.1)">
+       <defs>
+        <path id="SFProDisplay-Regular-458" d="M 1997 -78 
+C 2922 -78 3594 572 3594 1463 
+C 3594 2319 2956 2953 2097 2953 
+C 1538 2953 1041 2663 838 2222 
+C 838 2222 828 2222 828 2222 
+C 847 3422 1275 4091 2028 4091 
+C 2475 4091 2838 3828 2959 3419 
+L 3531 3419 
+C 3388 4128 2800 4588 2034 4588 
+C 931 4588 284 3697 284 2178 
+C 284 1691 356 1284 506 938 
+C 784 288 1322 -78 1997 -78 
+z
+M 1991 422 
+C 1413 422 963 881 963 1459 
+C 963 2034 1403 2459 2000 2459 
+C 2597 2459 3022 2034 3022 1444 
+C 3022 875 2566 422 1991 422 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SFProDisplay-Regular-458"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(59.859375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 388.528302 262.944 
+L 388.528302 95.04 
+" clip-path="url(#peee858a4b9)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <!-- 80 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(382.500958 278.465484) scale(0.1 -0.1)">
+       <defs>
+        <path id="SFProDisplay-Regular-45a" d="M 1916 -75 
+C 2872 -75 3553 463 3553 1219 
+C 3553 1778 3166 2241 2581 2378 
+L 2581 2391 
+C 3072 2547 3369 2928 3369 3397 
+C 3369 4084 2759 4584 1916 4584 
+C 1078 4584 459 4081 459 3400 
+C 459 2925 763 2541 1250 2391 
+L 1250 2378 
+C 669 2244 281 1781 281 1219 
+C 281 466 963 -75 1916 -75 
+z
+M 1916 416 
+C 1297 416 853 769 853 1259 
+C 853 1753 1297 2106 1916 2106 
+C 2538 2106 2978 1756 2978 1259 
+C 2978 769 2538 416 1916 416 
+z
+M 1916 2600 
+C 1388 2600 1019 2909 1019 3347 
+C 1019 3788 1388 4100 1916 4100 
+C 2444 4100 2813 3791 2813 3347 
+C 2813 2909 2441 2600 1916 2600 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SFProDisplay-Regular-45a"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(59.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 446.060377 262.944 
+L 446.060377 95.04 
+" clip-path="url(#peee858a4b9)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <!-- 100 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(437.779127 278.465484) scale(0.1 -0.1)">
+       <defs>
+        <path id="SFProDisplay-Regular-453" d="M 1516 0 
+L 2059 0 
+L 2059 4509 
+L 1509 4509 
+L 309 3647 
+L 309 3053 
+L 1503 3913 
+L 1516 3913 
+L 1516 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SFProDisplay-Regular-453"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(44.34375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(104.984375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_7">
+     <!-- Zoom clips read as a dolly (%) -->
+     <g style="fill: #ffffff; opacity: 0.55" transform="translate(240.719251 294.399078) scale(0.1 -0.1)">
+      <defs>
+       <path id="SFProDisplay-Regular-121" d="M 306 0 
+L 3641 0 
+L 3641 506 
+L 1028 506 
+L 1028 528 
+L 3588 4109 
+L 3588 4509 
+L 394 4509 
+L 394 4003 
+L 2878 4003 
+L 2878 3981 
+L 306 400 
+L 306 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-2b0" d="M 1700 -56 
+C 2597 -56 3203 591 3203 1625 
+C 3203 2663 2597 3306 1700 3306 
+C 800 3306 194 2663 194 1625 
+C 194 591 800 -56 1700 -56 
+z
+M 1700 422 
+C 1125 422 747 859 747 1625 
+C 747 2391 1125 2828 1700 2828 
+C 2275 2828 2650 2391 2650 1625 
+C 2650 859 2275 422 1700 422 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-2a2" d="M 353 0 
+L 897 0 
+L 897 2038 
+C 897 2488 1209 2825 1641 2825 
+C 2044 2825 2306 2569 2306 2178 
+L 2306 0 
+L 2850 0 
+L 2850 2066 
+C 2850 2506 3153 2825 3584 2825 
+C 4013 2825 4259 2563 4259 2119 
+L 4259 0 
+L 4803 0 
+L 4803 2244 
+C 4803 2888 4388 3306 3744 3306 
+C 3288 3306 2906 3075 2725 2688 
+L 2713 2688 
+C 2572 3081 2244 3306 1800 3306 
+C 1363 3306 1031 3075 878 2731 
+L 866 2731 
+L 866 3250 
+L 353 3250 
+L 353 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-3" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-23a" d="M 3053 2184 
+C 2984 2769 2500 3306 1688 3306 
+C 791 3306 194 2650 194 1625 
+C 194 578 794 -56 1694 -56 
+C 2431 -56 2975 400 3059 1047 
+L 2525 1047 
+C 2431 656 2141 422 1697 422 
+C 1134 422 747 869 747 1625 
+C 747 2363 1128 2828 1691 2828 
+C 2169 2828 2444 2538 2522 2184 
+L 3053 2184 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-290" d="M 381 0 
+L 925 0 
+L 925 4509 
+L 381 4509 
+L 381 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-277" d="M 381 0 
+L 925 0 
+L 925 3250 
+L 381 3250 
+L 381 0 
+z
+M 653 3797 
+C 841 3797 994 3950 994 4134 
+C 994 4322 841 4472 653 4472 
+C 469 4472 316 4322 316 4134 
+C 316 3950 469 3797 653 3797 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-2d5" d="M 1931 3306 
+C 1459 3306 1081 3066 881 2700 
+L 869 2700 
+L 869 3250 
+L 353 3250 
+L 353 -1084 
+L 897 -1084 
+L 897 528 
+L 909 528 
+C 1103 172 1478 -56 1944 -56 
+C 2763 -56 3322 606 3322 1625 
+C 3322 2644 2759 3306 1931 3306 
+z
+M 1825 422 
+C 1269 422 894 900 894 1625 
+C 894 2347 1269 2828 1825 2828 
+C 2403 2828 2766 2359 2766 1625 
+C 2766 888 2403 422 1825 422 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-2e3" d="M 297 2353 
+C 297 1909 578 1616 1150 1469 
+L 1722 1322 
+C 2088 1225 2222 1100 2222 869 
+C 2222 575 1950 388 1509 388 
+C 1069 388 813 569 753 906 
+L 209 906 
+C 266 331 763 -56 1475 -56 
+C 2234 -56 2769 344 2769 909 
+C 2769 1388 2531 1625 1875 1791 
+L 1372 1913 
+C 1003 2006 831 2156 831 2381 
+C 831 2666 1094 2863 1491 2863 
+C 1891 2863 2144 2669 2181 2356 
+L 2700 2356 
+C 2675 2906 2181 3306 1509 3306 
+C 794 3306 297 2909 297 2353 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-2d9" d="M 353 0 
+L 897 0 
+L 897 2025 
+C 897 2484 1172 2788 1594 2788 
+C 1725 2788 1841 2772 1884 2756 
+L 1884 3284 
+C 1841 3291 1759 3306 1666 3306 
+C 1284 3306 984 3078 878 2719 
+L 866 2719 
+L 866 3250 
+L 353 3250 
+L 353 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-249" d="M 1656 2834 
+C 2169 2834 2509 2447 2522 1903 
+L 756 1903 
+C 791 2444 1147 2834 1656 2834 
+z
+M 2509 931 
+C 2419 625 2116 416 1703 416 
+C 1119 416 753 825 753 1447 
+L 753 1478 
+L 3084 1478 
+L 3084 1684 
+C 3084 2669 2544 3306 1666 3306 
+C 769 3306 194 2622 194 1613 
+C 194 591 759 -56 1691 -56 
+C 2400 -56 2950 363 3044 931 
+L 2509 931 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-1fa" d="M 1425 406 
+C 1034 406 775 609 775 919 
+C 775 1225 1025 1419 1463 1447 
+L 2331 1500 
+L 2331 1234 
+C 2331 766 1938 406 1425 406 
+z
+M 1303 -56 
+C 1741 -56 2153 188 2347 559 
+L 2359 559 
+L 2359 0 
+L 2875 0 
+L 2875 2247 
+C 2875 2894 2394 3306 1631 3306 
+C 863 3306 381 2875 344 2313 
+L 869 2313 
+C 938 2631 1200 2828 1619 2828 
+C 2069 2828 2331 2591 2331 2194 
+L 2331 1922 
+L 1400 1869 
+C 650 1825 222 1475 222 919 
+C 222 334 656 -56 1303 -56 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-241" d="M 1584 -56 
+C 2053 -56 2425 175 2634 550 
+L 2644 550 
+L 2644 0 
+L 3163 0 
+L 3163 4509 
+L 2619 4509 
+L 2619 2722 
+L 2606 2722 
+C 2413 3078 2038 3306 1572 3306 
+C 753 3306 194 2644 194 1625 
+C 194 606 756 -56 1584 -56 
+z
+M 1688 2828 
+C 2247 2828 2622 2350 2622 1625 
+C 2622 897 2247 422 1688 422 
+C 1113 422 750 888 750 1625 
+C 750 2359 1113 2828 1688 2828 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-325" d="M 622 -1216 
+C 1209 -1216 1478 -988 1756 -228 
+L 3034 3250 
+L 2463 3250 
+L 1563 544 
+L 1553 544 
+L 653 3250 
+L 72 3250 
+L 1272 -3 
+L 1197 -231 
+C 1072 -609 903 -756 600 -756 
+C 531 -756 447 -753 388 -741 
+L 388 -1197 
+C 447 -1209 556 -1216 622 -1216 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-473" d="M 594 1775 
+C 594 688 881 -197 1481 -959 
+L 1938 -959 
+C 1494 -444 1147 753 1147 1775 
+C 1147 2797 1494 3994 1938 4509 
+L 1481 4509 
+C 881 3747 594 2863 594 1775 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-516" d="M 2050 3444 
+C 2050 4125 1675 4566 1103 4566 
+C 531 4566 156 4125 156 3444 
+C 156 2763 531 2322 1103 2322 
+C 1675 2322 2050 2763 2050 3444 
+z
+M 1103 2703 
+C 828 2703 656 2984 656 3444 
+C 656 3903 828 4184 1103 4184 
+C 1378 4184 1550 3903 1550 3444 
+C 1550 2984 1378 2703 1103 2703 
+z
+M 966 0 
+L 2566 2191 
+L 4259 4509 
+L 3722 4509 
+L 2163 2378 
+L 422 0 
+L 966 0 
+z
+M 4528 1075 
+C 4528 1756 4153 2197 3581 2197 
+C 3009 2197 2634 1756 2634 1075 
+C 2634 394 3009 -47 3581 -47 
+C 4153 -47 4528 394 4528 1075 
+z
+M 3581 334 
+C 3306 334 3134 616 3134 1075 
+C 3134 1534 3306 1816 3581 1816 
+C 3856 1816 4028 1534 4028 1075 
+C 4028 616 3856 334 3581 334 
+z
+" transform="scale(0.015625)"/>
+       <path id="SFProDisplay-Regular-474" d="M 1469 1775 
+C 1469 3203 994 3984 581 4509 
+L 125 4509 
+C 397 4194 916 3191 916 1775 
+C 916 359 400 -641 125 -959 
+L 581 -959 
+C 994 -434 1469 347 1469 1775 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SFProDisplay-Regular-121"/>
+      <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(60.703125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(113.78125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2a2" transform="translate(166.859375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(247.1875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-23a" transform="translate(267.703125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-290" transform="translate(317.796875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-277" transform="translate(338.203125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2d5" transform="translate(358.609375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(413.546875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(460.078125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(480.59375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-249" transform="translate(508.96875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(560.1875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-241" transform="translate(610.390625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(665.765625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(686.28125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(736.484375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(783.015625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(803.53125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(853.734375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-241" transform="translate(874.25 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(929.625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-290" transform="translate(982.703125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-290" transform="translate(1003.109375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-325" transform="translate(1023.515625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1072.09375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-473" transform="translate(1092.609375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-516" transform="translate(1124.84375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-474" transform="translate(1197.984375 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <!-- A1: COLMAP, per-frame focal -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(30.010937 116.805374) scale(0.1 -0.1)">
+       <defs>
+        <path id="SFProDisplay-Regular-4" d="M 3369 0 
+L 3959 0 
+L 2297 4509 
+L 1741 4509 
+L 78 0 
+L 669 0 
+L 1122 1291 
+L 2916 1291 
+L 3369 0 
+z
+M 2009 3825 
+L 2028 3825 
+L 2750 1769 
+L 1288 1769 
+L 2009 3825 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-49f" d="M 813 -31 
+C 1013 -31 1169 125 1169 325 
+C 1169 525 1013 681 813 681 
+C 613 681 456 525 456 325 
+C 456 125 613 -31 813 -31 
+z
+M 813 2269 
+C 1013 2269 1169 2425 1169 2625 
+C 1169 2825 1013 2981 813 2981 
+C 613 2981 456 2825 456 2625 
+C 456 2425 613 2269 813 2269 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-26" d="M 2294 -75 
+C 3291 -75 3959 422 4166 1313 
+L 3597 1313 
+C 3434 763 2959 444 2297 444 
+C 1406 444 841 1150 841 2256 
+C 841 3353 1413 4066 2294 4066 
+C 2938 4066 3453 3678 3597 3088 
+L 4166 3088 
+C 4022 3988 3275 4584 2294 4584 
+C 1059 4584 263 3672 263 2256 
+C 263 828 1050 -75 2294 -75 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-a3" d="M 2341 4584 
+C 1063 4584 263 3684 263 2253 
+C 263 822 1063 -75 2341 -75 
+C 3619 -75 4419 822 4419 2253 
+C 4419 3684 3619 4584 2341 4584 
+z
+M 2341 4066 
+C 3263 4066 3841 3366 3841 2253 
+C 3841 1144 3263 444 2341 444 
+C 1419 444 841 1144 841 2253 
+C 841 3366 1419 4066 2341 4066 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-8c" d="M 3175 506 
+L 1000 506 
+L 1000 4509 
+L 438 4509 
+L 438 0 
+L 3175 0 
+L 3175 506 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-95" d="M 4881 0 
+L 4881 4509 
+L 4228 4509 
+L 2672 747 
+L 2647 747 
+L 1091 4509 
+L 438 4509 
+L 438 0 
+L 963 0 
+L 963 3475 
+L 984 3475 
+L 2422 31 
+L 2897 31 
+L 4334 3475 
+L 4356 3475 
+L 4356 0 
+L 4881 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-c8" d="M 438 4509 
+L 438 0 
+L 1000 0 
+L 1000 1609 
+L 2041 1609 
+C 2888 1609 3491 2206 3491 3063 
+C 3491 3916 2894 4509 2047 4509 
+L 438 4509 
+z
+M 1000 4009 
+L 1900 4009 
+C 2547 4009 2913 3659 2913 3063 
+C 2913 2463 2544 2109 1900 2109 
+L 1000 2109 
+L 1000 4009 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-49c" d="M 725 -897 
+L 1153 694 
+L 575 694 
+L 272 -897 
+L 725 -897 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-481" d="M 2397 1575 
+L 2397 2081 
+L 347 2081 
+L 347 1575 
+L 2397 1575 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-263" d="M 528 0 
+L 1072 0 
+L 1072 2803 
+L 1734 2803 
+L 1734 3250 
+L 1069 3250 
+L 1069 3609 
+C 1069 3931 1209 4088 1503 4088 
+C 1594 4088 1684 4078 1750 4069 
+L 1750 4509 
+C 1672 4522 1541 4534 1419 4534 
+C 819 4534 528 4238 528 3613 
+L 528 3250 
+L 75 3250 
+L 75 2803 
+L 528 2803 
+L 528 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SFProDisplay-Regular-4"/>
+       <use xlink:href="#SFProDisplay-Regular-453" transform="translate(59.1875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-49f" transform="translate(103.53125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(128.921875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-26" transform="translate(149.4375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-a3" transform="translate(218.046875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-8c" transform="translate(291.1875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-95" transform="translate(343.625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-4" transform="translate(426.734375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-c8" transform="translate(489.828125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-49c" transform="translate(540.765625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(561.28125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2d5" transform="translate(581.796875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-249" transform="translate(636.734375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(687.953125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-481" transform="translate(716.8125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-263" transform="translate(759.6875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(790.0625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(819.90625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2a2" transform="translate(870.109375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-249" transform="translate(950.4375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1001.65625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-263" transform="translate(1022.171875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(1050.109375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-23a" transform="translate(1103.1875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(1153.28125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-290" transform="translate(1203.484375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <!-- B: DA3 + rules -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(92.629688 150.279058) scale(0.1 -0.1)">
+       <defs>
+        <path id="SFProDisplay-Regular-22" d="M 2141 0 
+C 3100 0 3669 472 3669 1266 
+C 3669 1866 3275 2297 2663 2375 
+L 2663 2400 
+C 3097 2478 3441 2916 3441 3384 
+C 3441 4059 2919 4509 2147 4509 
+L 438 4509 
+L 438 0 
+L 2141 0 
+z
+M 1000 4013 
+L 2019 4013 
+C 2566 4013 2872 3766 2872 3319 
+C 2872 2831 2509 2566 1844 2566 
+L 1000 2566 
+L 1000 4013 
+z
+M 1000 497 
+L 1000 2081 
+L 2003 2081 
+C 2722 2081 3091 1816 3091 1294 
+C 3091 772 2734 497 2056 497 
+L 1000 497 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-2d" d="M 438 4509 
+L 438 0 
+L 1953 0 
+C 3294 0 4081 834 4081 2256 
+C 4081 3675 3291 4509 1953 4509 
+L 438 4509 
+z
+M 1000 4003 
+L 1916 4003 
+C 2941 4003 3506 3378 3506 2250 
+C 3506 1131 2938 506 1916 506 
+L 1000 506 
+L 1000 4003 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-455" d="M 1284 2081 
+L 1850 2081 
+C 2494 2081 2894 1753 2894 1222 
+C 2894 750 2466 413 1869 413 
+C 1263 413 878 731 828 1194 
+L 288 1194 
+C 328 447 931 -75 1875 -75 
+C 2759 -75 3466 466 3466 1241 
+C 3466 1875 3028 2297 2347 2338 
+L 2347 2350 
+C 2909 2450 3272 2856 3272 3422 
+C 3272 4100 2663 4584 1856 4584 
+C 1009 4584 441 4094 378 3328 
+L 919 3328 
+C 969 3800 1313 4097 1831 4097 
+C 2403 4097 2706 3794 2706 3347 
+C 2706 2891 2344 2556 1825 2556 
+L 1284 2556 
+L 1284 2081 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-4ae" d="M 2188 1525 
+L 3522 1525 
+L 3522 2031 
+L 2188 2031 
+L 2188 3428 
+L 1681 3428 
+L 1681 2031 
+L 347 2031 
+L 347 1525 
+L 1681 1525 
+L 1681 94 
+L 2188 94 
+L 2188 1525 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-2f8" d="M 3022 3250 
+L 2478 3250 
+L 2478 1341 
+C 2478 788 2159 425 1631 425 
+C 1128 425 881 709 881 1238 
+L 881 3250 
+L 338 3250 
+L 338 1141 
+C 338 403 753 -56 1463 -56 
+C 1963 -56 2300 153 2494 528 
+L 2506 528 
+L 2506 0 
+L 3022 0 
+L 3022 3250 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SFProDisplay-Regular-22"/>
+       <use xlink:href="#SFProDisplay-Regular-49f" transform="translate(60.453125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(85.84375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2d" transform="translate(106.359375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-4" transform="translate(172.234375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-455" transform="translate(235.328125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(294.515625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-4ae" transform="translate(315.03125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(375.53125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(396.046875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2f8" transform="translate(426.859375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-290" transform="translate(479.546875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-249" transform="translate(499.953125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(551.171875 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <!-- C: Qwen3-VL-8B -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(78.642188 183.752742) scale(0.1 -0.1)">
+       <defs>
+        <path id="SFProDisplay-Regular-cb" d="M 2341 -75 
+C 2638 -75 2906 -28 3147 66 
+L 3566 -509 
+L 4197 -509 
+L 3600 313 
+C 4122 706 4419 1381 4419 2253 
+C 4419 3684 3619 4584 2341 4584 
+C 1063 4584 263 3684 263 2253 
+C 263 822 1063 -75 2341 -75 
+z
+M 2341 444 
+C 1419 444 841 1144 841 2253 
+C 841 3366 1419 4066 2341 4066 
+C 3263 4066 3841 3366 3841 2253 
+C 3841 1591 3634 1072 3272 766 
+L 2888 1291 
+L 2256 1291 
+L 2819 516 
+C 2672 469 2513 444 2341 444 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-31a" d="M 4488 3250 
+L 3950 3250 
+L 3300 606 
+L 3288 606 
+L 2550 3250 
+L 2025 3250 
+L 1291 606 
+L 1278 606 
+L 628 3250 
+L 88 3250 
+L 997 0 
+L 1550 0 
+L 2281 2516 
+L 2294 2516 
+L 3028 0 
+L 3581 0 
+L 4488 3250 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-2a6" d="M 353 0 
+L 897 0 
+L 897 1913 
+C 897 2463 1231 2825 1744 2825 
+C 2244 2825 2491 2538 2491 2013 
+L 2491 0 
+L 3034 0 
+L 3034 2109 
+C 3034 2847 2622 3306 1909 3306 
+C 1406 3306 1059 3081 878 2731 
+L 866 2731 
+L 866 3250 
+L 353 3250 
+L 353 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="SFProDisplay-Regular-10a" d="M 2297 0 
+L 3959 4509 
+L 3369 4509 
+L 2028 684 
+L 2009 684 
+L 669 4509 
+L 78 4509 
+L 1741 0 
+L 2297 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SFProDisplay-Regular-26"/>
+       <use xlink:href="#SFProDisplay-Regular-49f" transform="translate(68.609375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(94 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-cb" transform="translate(114.515625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-31a" transform="translate(187.65625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-249" transform="translate(259.1875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2a6" transform="translate(310.40625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-455" transform="translate(363.09375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-481" transform="translate(422.28125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-10a" transform="translate(462.234375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-8c" transform="translate(525.328125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-481" transform="translate(574.34375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-45a" transform="translate(617.21875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-22" transform="translate(677.125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <!-- D: ours, seed 0 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(90.0625 217.226426) scale(0.1 -0.1)">
+       <use xlink:href="#SFProDisplay-Regular-2d"/>
+       <use xlink:href="#SFProDisplay-Regular-49f" transform="translate(67.828125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(93.21875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(113.734375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2f8" transform="translate(166.8125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(219.5 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(250.3125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-49c" transform="translate(296.84375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(317.359375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(337.875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-249" transform="translate(384.40625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-249" transform="translate(435.625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-241" transform="translate(486.84375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(542.21875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(562.734375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_17"/>
+     <g id="text_12">
+      <!-- D: ours, seed 1 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(91.692188 250.700111) scale(0.1 -0.1)">
+       <use xlink:href="#SFProDisplay-Regular-2d"/>
+       <use xlink:href="#SFProDisplay-Regular-49f" transform="translate(67.828125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(93.21875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(113.734375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2f8" transform="translate(166.8125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(219.5 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(250.3125 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-49c" transform="translate(296.84375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(317.359375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(337.875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-249" transform="translate(384.40625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-249" transform="translate(435.625 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-241" transform="translate(486.84375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-3" transform="translate(542.21875 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-453" transform="translate(562.734375 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 158.4 121.417263 
+L 252.107547 121.417263 
+L 252.107547 102.672 
+L 158.4 102.672 
+z
+" clip-path="url(#peee858a4b9)" style="fill: #ffffff; fill-opacity: 0.5"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 158.4 154.890947 
+L 374.145283 154.890947 
+L 374.145283 136.145684 
+L 158.4 136.145684 
+z
+" clip-path="url(#peee858a4b9)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 158.4 188.364632 
+L 389.4 188.364632 
+L 389.4 169.619368 
+L 158.4 169.619368 
+z
+" clip-path="url(#peee858a4b9)" style="fill: #ffffff; fill-opacity: 0.5"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 158.4 221.838316 
+L 201.984906 221.838316 
+L 201.984906 203.093053 
+L 158.4 203.093053 
+z
+" clip-path="url(#peee858a4b9)" style="fill: #2f7bff"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 158.4 255.312 
+L 173.654717 255.312 
+L 173.654717 236.566737 
+L 158.4 236.566737 
+z
+" clip-path="url(#peee858a4b9)" style="fill: #2f7bff"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 158.4 262.944 
+L 446.060377 262.944 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.22; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <!-- 33% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(256.422453 115.24385) scale(0.09 -0.09)">
+     <use xlink:href="#SFProDisplay-Regular-455"/>
+     <use xlink:href="#SFProDisplay-Regular-455" transform="translate(59.1875 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(118.375 0)"/>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- 75% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(378.460189 148.717535) scale(0.09 -0.09)">
+     <defs>
+      <path id="SFProDisplay-Regular-459" d="M 625 0 
+L 1216 0 
+L 3222 3988 
+L 3222 4509 
+L 238 4509 
+L 238 4009 
+L 2666 4009 
+L 2666 3997 
+L 625 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="SFProDisplay-Regular-457" d="M 1916 -75 
+C 2856 -75 3522 559 3522 1466 
+C 3522 2341 2897 2975 2031 2975 
+C 1600 2975 1225 2813 1022 2541 
+L 1009 2541 
+L 1147 4009 
+L 3266 4009 
+L 3266 4509 
+L 684 4509 
+L 438 1984 
+L 966 1984 
+C 1150 2300 1509 2491 1931 2491 
+C 2531 2491 2959 2056 2959 1450 
+C 2959 844 2534 419 1922 419 
+C 1381 419 972 750 922 1231 
+L 369 1231 
+C 416 463 1053 -75 1916 -75 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SFProDisplay-Regular-459"/>
+     <use xlink:href="#SFProDisplay-Regular-457" transform="translate(54.6875 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(113.1875 0)"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- 80% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(393.714906 182.191219) scale(0.09 -0.09)">
+     <use xlink:href="#SFProDisplay-Regular-45a"/>
+     <use xlink:href="#SFProDisplay-Regular-452" transform="translate(59.90625 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(120.546875 0)"/>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- 15% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(206.299811 215.664903) scale(0.09 -0.09)">
+     <use xlink:href="#SFProDisplay-Regular-453"/>
+     <use xlink:href="#SFProDisplay-Regular-457" transform="translate(44.34375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(102.84375 0)"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- 5% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(177.969623 249.138587) scale(0.09 -0.09)">
+     <use xlink:href="#SFProDisplay-Regular-457"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(58.5 0)"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- Unseen scenes -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(158.4 85.04) scale(0.1 -0.1)">
+     <defs>
+      <path id="SFProDisplay-Regular-eb" d="M 1000 4509 
+L 438 4509 
+L 438 1581 
+C 438 619 1109 -75 2228 -75 
+C 3347 -75 4019 619 4019 1581 
+L 4019 4509 
+L 3456 4509 
+L 3456 1619 
+C 3456 938 3009 444 2228 444 
+C 1447 444 1000 938 1000 1619 
+L 1000 4509 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SFProDisplay-Regular-eb"/>
+     <use xlink:href="#SFProDisplay-Regular-2a6" transform="translate(69.625 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(122.3125 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-249" transform="translate(168.84375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-249" transform="translate(220.0625 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2a6" transform="translate(271.28125 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-3" transform="translate(323.96875 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(344.484375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-23a" transform="translate(391.015625 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-249" transform="translate(441.109375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2a6" transform="translate(492.328125 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-249" transform="translate(545.015625 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(596.234375 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_9">
+    <path d="M 480.579623 262.944 
+L 768.24 262.944 
+L 768.24 95.04 
+L 480.579623 95.04 
+z
+" style="fill: #050608"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_7">
+     <g id="line2d_18">
+      <path d="M 480.579623 262.944 
+L 480.579623 95.04 
+" clip-path="url(#p791848e0a1)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_19"/>
+     <g id="text_19">
+      <!-- 0 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(477.547591 278.465484) scale(0.1 -0.1)">
+       <use xlink:href="#SFProDisplay-Regular-452"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_20">
+      <path d="M 538.111698 262.944 
+L 538.111698 95.04 
+" clip-path="url(#p791848e0a1)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_21"/>
+     <g id="text_20">
+      <!-- 20 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(532.249979 278.465484) scale(0.1 -0.1)">
+       <use xlink:href="#SFProDisplay-Regular-454"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(56.59375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_22">
+      <path d="M 595.643774 262.944 
+L 595.643774 95.04 
+" clip-path="url(#p791848e0a1)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_23"/>
+     <g id="text_21">
+      <!-- 40 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(589.586742 278.465484) scale(0.1 -0.1)">
+       <use xlink:href="#SFProDisplay-Regular-456"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(60.5 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_24">
+      <path d="M 653.175849 262.944 
+L 653.175849 95.04 
+" clip-path="url(#p791848e0a1)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_25"/>
+     <g id="text_22">
+      <!-- 60 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(647.150849 278.465484) scale(0.1 -0.1)">
+       <use xlink:href="#SFProDisplay-Regular-458"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(59.859375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_26">
+      <path d="M 710.707925 262.944 
+L 710.707925 95.04 
+" clip-path="url(#p791848e0a1)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_27"/>
+     <g id="text_23">
+      <!-- 80 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(704.680581 278.465484) scale(0.1 -0.1)">
+       <use xlink:href="#SFProDisplay-Regular-45a"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(59.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_28">
+      <path d="M 768.24 262.944 
+L 768.24 95.04 
+" clip-path="url(#p791848e0a1)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_29"/>
+     <g id="text_24">
+      <!-- 100 -->
+      <g style="fill: #ffffff; opacity: 0.55" transform="translate(759.95875 278.465484) scale(0.1 -0.1)">
+       <use xlink:href="#SFProDisplay-Regular-453"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(44.34375 0)"/>
+       <use xlink:href="#SFProDisplay-Regular-452" transform="translate(104.984375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_25">
+     <!-- Zoom clips read as a dolly (%) -->
+     <g style="fill: #ffffff; opacity: 0.55" transform="translate(562.898874 294.399078) scale(0.1 -0.1)">
+      <use xlink:href="#SFProDisplay-Regular-121"/>
+      <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(60.703125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(113.78125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2a2" transform="translate(166.859375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(247.1875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-23a" transform="translate(267.703125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-290" transform="translate(317.796875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-277" transform="translate(338.203125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2d5" transform="translate(358.609375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(413.546875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(460.078125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(480.59375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-249" transform="translate(508.96875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(560.1875 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-241" transform="translate(610.390625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(665.765625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(686.28125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(736.484375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(783.015625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(803.53125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(853.734375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-241" transform="translate(874.25 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(929.625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-290" transform="translate(982.703125 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-290" transform="translate(1003.109375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-325" transform="translate(1023.515625 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1072.09375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-473" transform="translate(1092.609375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-516" transform="translate(1124.84375 0)"/>
+      <use xlink:href="#SFProDisplay-Regular-474" transform="translate(1197.984375 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_30"/>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_31"/>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_32"/>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_33"/>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_34"/>
+    </g>
+   </g>
+   <g id="patch_10">
+    <path d="M 480.579623 121.417263 
+L 562.33573 121.417263 
+L 562.33573 102.672 
+L 480.579623 102.672 
+z
+" clip-path="url(#p791848e0a1)" style="fill: #ffffff; fill-opacity: 0.5"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 480.579623 154.890947 
+L 722.81994 154.890947 
+L 722.81994 136.145684 
+L 480.579623 136.145684 
+z
+" clip-path="url(#p791848e0a1)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 480.579623 188.364632 
+L 728.875948 188.364632 
+L 728.875948 169.619368 
+L 480.579623 169.619368 
+z
+" clip-path="url(#p791848e0a1)" style="fill: #ffffff; fill-opacity: 0.5"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 480.579623 221.838316 
+L 562.33573 221.838316 
+L 562.33573 203.093053 
+L 480.579623 203.093053 
+z
+" clip-path="url(#p791848e0a1)" style="fill: #2f7bff"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 480.579623 255.312 
+L 556.279722 255.312 
+L 556.279722 236.566737 
+L 480.579623 236.566737 
+z
+" clip-path="url(#p791848e0a1)" style="fill: #2f7bff"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 480.579623 262.944 
+L 768.24 262.944 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.22; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_26">
+    <!-- 28% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(566.650636 115.24385) scale(0.09 -0.09)">
+     <use xlink:href="#SFProDisplay-Regular-454"/>
+     <use xlink:href="#SFProDisplay-Regular-45a" transform="translate(56.59375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(116.5 0)"/>
+    </g>
+   </g>
+   <g id="text_27">
+    <!-- 84% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(727.134846 148.717535) scale(0.09 -0.09)">
+     <use xlink:href="#SFProDisplay-Regular-45a"/>
+     <use xlink:href="#SFProDisplay-Regular-456" transform="translate(59.90625 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(120.40625 0)"/>
+    </g>
+   </g>
+   <g id="text_28">
+    <!-- 86% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(733.190854 182.191219) scale(0.09 -0.09)">
+     <use xlink:href="#SFProDisplay-Regular-45a"/>
+     <use xlink:href="#SFProDisplay-Regular-458" transform="translate(59.90625 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(119.765625 0)"/>
+    </g>
+   </g>
+   <g id="text_29">
+    <!-- 28% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(566.650636 215.664903) scale(0.09 -0.09)">
+     <use xlink:href="#SFProDisplay-Regular-454"/>
+     <use xlink:href="#SFProDisplay-Regular-45a" transform="translate(56.59375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(116.5 0)"/>
+    </g>
+   </g>
+   <g id="text_30">
+    <!-- 26% -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(560.594628 249.138587) scale(0.09 -0.09)">
+     <use xlink:href="#SFProDisplay-Regular-454"/>
+     <use xlink:href="#SFProDisplay-Regular-458" transform="translate(56.59375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-516" transform="translate(116.453125 0)"/>
+    </g>
+   </g>
+   <g id="text_31">
+    <!-- Unseen move pairs -->
+    <g style="fill: #ffffff; opacity: 0.55" transform="translate(480.579623 85.04) scale(0.1 -0.1)">
+     <defs>
+      <path id="SFProDisplay-Regular-317" d="M 3019 3250 
+L 2453 3250 
+L 1553 578 
+L 1541 578 
+L 644 3250 
+L 72 3250 
+L 1269 0 
+L 1825 0 
+L 3019 3250 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SFProDisplay-Regular-eb"/>
+     <use xlink:href="#SFProDisplay-Regular-2a6" transform="translate(69.625 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(122.3125 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-249" transform="translate(168.84375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-249" transform="translate(220.0625 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2a6" transform="translate(271.28125 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-3" transform="translate(323.96875 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2a2" transform="translate(344.484375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(424.8125 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-317" transform="translate(476.421875 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-249" transform="translate(523.25 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-3" transform="translate(574.46875 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2d5" transform="translate(594.984375 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(649.921875 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-277" transform="translate(700.125 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(720.53125 0)"/>
+     <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(751.34375 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="patch_16">
+   <path d="M 4.32 312.48 
+L 787.68 312.48 
+L 787.68 4.32 
+L 4.32 4.32 
+L 4.32 312.48 
+z
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.08; stroke-linejoin: miter"/>
+  </g>
+  <g id="line2d_35">
+   <path d="M 7.2 309.6 
+L 17.28 309.6 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.27; stroke-width: 1.2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_36">
+   <path d="M 7.2 309.6 
+L 7.2 299.52 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.27; stroke-width: 1.2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_37">
+   <path d="M 784.8 309.6 
+L 774.72 309.6 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.27; stroke-width: 1.2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_38">
+   <path d="M 784.8 309.6 
+L 784.8 299.52 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.27; stroke-width: 1.2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_39">
+   <path d="M 7.2 7.2 
+L 17.28 7.2 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.27; stroke-width: 1.2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_40">
+   <path d="M 7.2 7.2 
+L 7.2 17.28 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.27; stroke-width: 1.2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_41">
+   <path d="M 784.8 7.2 
+L 774.72 7.2 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.27; stroke-width: 1.2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_42">
+   <path d="M 784.8 7.2 
+L 784.8 17.28 
+" style="fill: none; stroke: #ffffff; stroke-opacity: 0.27; stroke-width: 1.2; stroke-linecap: square"/>
+  </g>
+  <g id="text_32">
+   <!-- SPHERON RESEARCH // STUDY 2 // RUN ONE -->
+   <g style="fill: #ffffff; opacity: 0.38" transform="translate(20.16 27.824) scale(0.08 -0.08)">
+    <defs>
+     <path id="OCRAStd-34" d="M 1459 4077 
+C 1434 4115 1363 4192 1363 4250 
+C 1363 4358 1510 4339 1581 4339 
+L 2938 4339 
+C 3136 4339 3245 4307 3245 4090 
+C 3245 3910 3360 3789 3552 3789 
+C 3782 3789 3885 3955 3885 4160 
+C 3885 4384 3750 4621 3584 4768 
+C 3398 4928 3194 4979 2950 4979 
+L 1594 4979 
+C 1389 4979 1242 4979 1062 4864 
+C 845 4723 723 4506 723 4250 
+C 723 4026 800 3898 934 3725 
+L 3130 902 
+C 3155 864 3245 768 3245 717 
+C 3245 621 3085 640 3034 640 
+L 1645 640 
+C 1466 640 1363 666 1363 858 
+C 1363 1030 1248 1184 1062 1184 
+C 838 1184 723 1005 723 800 
+C 723 576 851 346 1024 205 
+C 1216 45 1427 0 1670 0 
+L 3078 0 
+C 3520 0 3885 243 3885 723 
+C 3885 941 3789 1088 3661 1254 
+L 1459 4077 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-31" d="M 1363 1882 
+L 2765 1882 
+C 3110 1882 3373 1907 3622 2189 
+C 3859 2451 3885 2682 3885 3008 
+L 3885 3878 
+C 3885 4224 3859 4461 3584 4717 
+C 3354 4934 3142 4979 2848 4979 
+L 723 4979 
+L 723 320 
+C 723 115 813 0 1043 0 
+C 1274 0 1363 115 1363 320 
+L 1363 1882 
+z
+M 1363 4339 
+L 2784 4339 
+C 3162 4339 3245 4243 3245 3878 
+L 3245 2982 
+C 3245 2618 3162 2522 2784 2522 
+L 1363 2522 
+L 1363 4339 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-29" d="M 3245 2170 
+L 3245 320 
+C 3245 115 3334 0 3565 0 
+C 3795 0 3885 115 3885 320 
+L 3885 4659 
+C 3885 4864 3795 4979 3565 4979 
+C 3334 4979 3245 4864 3245 4659 
+L 3245 2810 
+L 1363 2810 
+L 1363 4659 
+C 1363 4864 1274 4979 1043 4979 
+C 813 4979 723 4864 723 4659 
+L 723 320 
+C 723 115 813 0 1043 0 
+C 1274 0 1363 115 1363 320 
+L 1363 2170 
+L 3245 2170 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-26" d="M 1363 640 
+L 1363 2170 
+L 2304 2170 
+C 2470 2170 2624 2259 2624 2490 
+C 2624 2720 2470 2810 2304 2810 
+L 1363 2810 
+L 1363 4339 
+L 3565 4339 
+C 3731 4339 3885 4429 3885 4659 
+C 3885 4890 3731 4979 3565 4979 
+L 723 4979 
+L 723 0 
+L 3565 0 
+C 3731 0 3885 90 3885 320 
+C 3885 550 3731 640 3565 640 
+L 1363 640 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-33" d="M 1363 2701 
+L 1510 2701 
+L 3277 179 
+C 3347 77 3430 0 3558 0 
+C 3738 0 3885 122 3885 301 
+C 3885 422 3795 544 3725 640 
+L 2285 2701 
+L 2874 2701 
+C 3386 2701 3885 3008 3885 3610 
+L 3885 4051 
+C 3885 4621 3379 4979 2874 4979 
+L 723 4979 
+L 723 320 
+C 723 115 813 0 1043 0 
+C 1274 0 1363 115 1363 320 
+L 1363 2701 
+z
+M 1363 4339 
+L 2790 4339 
+C 2982 4339 3245 4307 3245 4051 
+L 3245 3610 
+C 3245 3354 2963 3341 2784 3341 
+L 1363 3341 
+L 1363 4339 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-30" d="M 3078 4454 
+C 2925 4755 2662 4979 2304 4979 
+C 1946 4979 1683 4755 1530 4454 
+L 890 3181 
+C 768 2931 723 2746 723 2470 
+C 723 2163 806 1971 934 1709 
+L 1523 531 
+C 1677 224 1933 0 2304 0 
+C 2675 0 2931 224 3085 531 
+L 3674 1709 
+C 3802 1971 3885 2163 3885 2470 
+C 3885 2746 3840 2931 3718 3181 
+L 3078 4454 
+z
+M 3098 2989 
+C 3194 2803 3245 2682 3245 2470 
+C 3245 2304 3206 2189 3136 2048 
+L 2522 832 
+C 2477 742 2432 640 2304 640 
+C 2176 640 2131 742 2086 832 
+L 1472 2048 
+C 1402 2189 1363 2304 1363 2470 
+C 1363 2682 1414 2803 1510 2989 
+L 2086 4147 
+C 2138 4250 2170 4339 2304 4339 
+C 2438 4339 2470 4250 2522 4147 
+L 3098 2989 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-2f" d="M 3245 1094 
+L 3232 1094 
+L 3238 1094 
+L 1568 4979 
+L 723 4979 
+L 723 320 
+C 723 115 813 0 1043 0 
+C 1274 0 1363 115 1363 320 
+L 1363 3840 
+L 1376 3840 
+L 1376 3834 
+L 3046 -6 
+L 3891 -6 
+L 3891 4653 
+C 3891 4858 3802 4973 3571 4973 
+C 3341 4973 3251 4858 3251 4653 
+L 3245 1094 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-1" transform="scale(0.015625)"/>
+     <path id="OCRAStd-22" d="M 723 320 
+C 678 166 851 0 1030 0 
+C 1229 0 1331 166 1376 320 
+L 1619 1088 
+L 2982 1088 
+L 3219 320 
+C 3264 166 3366 0 3565 0 
+C 3744 0 3917 166 3872 320 
+L 2637 4653 
+C 2592 4819 2515 4979 2304 4979 
+C 2099 4979 2029 4826 1978 4653 
+L 723 320 
+z
+M 2803 1728 
+L 1798 1728 
+L 2298 3462 
+L 2310 3462 
+L 2803 1728 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-24" d="M 3565 0 
+C 3712 0 3885 90 3885 320 
+C 3885 563 3706 640 3565 640 
+L 2522 640 
+C 2234 640 2170 659 2042 922 
+L 1498 2029 
+C 1421 2182 1363 2291 1363 2470 
+C 1363 2669 1414 2784 1498 2957 
+L 2054 4070 
+C 2176 4314 2221 4339 2496 4339 
+L 3565 4339 
+C 3712 4339 3885 4429 3885 4659 
+C 3885 4902 3706 4979 3565 4979 
+L 2477 4979 
+C 1984 4979 1709 4806 1491 4365 
+L 902 3181 
+C 774 2925 723 2752 723 2470 
+C 723 2221 787 2016 896 1798 
+L 1485 608 
+C 1690 192 1965 0 2445 0 
+L 3565 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-10" d="M 3814 4429 
+C 3853 4499 3885 4576 3885 4678 
+C 3885 4845 3738 4979 3571 4979 
+C 3411 4979 3334 4864 3258 4736 
+L 864 634 
+C 800 531 723 422 723 301 
+C 723 134 883 0 1043 0 
+C 1203 0 1280 90 1357 224 
+L 3814 4429 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-35" d="M 1984 4339 
+L 1984 320 
+C 1984 115 2074 0 2304 0 
+C 2534 0 2624 115 2624 320 
+L 2624 4339 
+L 3245 4339 
+L 3245 4109 
+C 3245 3904 3334 3789 3565 3789 
+C 3795 3789 3885 3904 3885 4109 
+L 3885 4979 
+L 723 4979 
+L 723 4109 
+C 723 3904 813 3789 1043 3789 
+C 1274 3789 1363 3904 1363 4109 
+L 1363 4339 
+L 1984 4339 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-36" d="M 2848 0 
+C 3168 0 3418 77 3642 326 
+C 3853 563 3885 794 3885 1088 
+L 3885 4659 
+C 3885 4864 3795 4979 3565 4979 
+C 3334 4979 3245 4864 3245 4659 
+L 3245 1088 
+C 3245 730 3136 640 2848 640 
+L 1760 640 
+C 1472 640 1363 730 1363 1088 
+L 1363 4659 
+C 1363 4864 1274 4979 1043 4979 
+C 813 4979 723 4864 723 4659 
+L 723 1088 
+C 723 794 755 563 966 326 
+C 1190 77 1440 0 1760 0 
+L 2848 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-25" d="M 1350 640 
+L 1043 640 
+C 877 640 723 550 723 320 
+C 723 90 877 0 1043 0 
+L 2106 0 
+C 2605 0 2893 147 3117 602 
+L 3699 1766 
+C 3814 1997 3885 2214 3885 2470 
+C 3885 2765 3821 2950 3693 3213 
+L 3130 4339 
+C 2912 4774 2662 4979 2163 4979 
+L 1094 4979 
+C 896 4979 723 4890 723 4659 
+C 723 4416 902 4339 1114 4339 
+L 1350 4339 
+L 1350 640 
+z
+M 1990 4339 
+L 2067 4339 
+C 2362 4339 2419 4346 2554 4070 
+L 3085 2989 
+C 3174 2803 3245 2682 3245 2464 
+C 3245 2304 3194 2195 3123 2048 
+L 2560 909 
+C 2445 672 2381 640 2112 640 
+L 1990 640 
+L 1990 4339 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-3a" d="M 2624 2368 
+L 3885 4006 
+L 3885 4659 
+C 3885 4864 3795 4979 3565 4979 
+C 3334 4979 3245 4864 3245 4659 
+L 3245 4224 
+L 2304 3002 
+L 1363 4224 
+L 1363 4659 
+C 1363 4864 1274 4979 1043 4979 
+C 813 4979 723 4864 723 4659 
+L 723 4006 
+L 1984 2368 
+L 1984 320 
+C 1984 115 2074 0 2304 0 
+C 2534 0 2624 115 2624 320 
+L 2624 2368 
+z
+" transform="scale(0.015625)"/>
+     <path id="OCRAStd-13" d="M 1363 2170 
+L 3168 2170 
+C 3379 2170 3526 2202 3686 2349 
+C 3866 2515 3885 2688 3885 2918 
+L 3885 4230 
+C 3885 4461 3866 4634 3686 4800 
+C 3526 4947 3379 4979 3168 4979 
+L 1043 4979 
+C 877 4979 723 4890 723 4659 
+C 723 4429 877 4339 1043 4339 
+L 3245 4339 
+L 3245 2810 
+L 1446 2810 
+C 966 2810 723 2566 723 2086 
+L 723 0 
+L 3565 0 
+C 3731 0 3885 90 3885 320 
+C 3885 550 3731 640 3565 640 
+L 1363 640 
+L 1363 2170 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#OCRAStd-34"/>
+    <use xlink:href="#OCRAStd-31" transform="translate(72 0)"/>
+    <use xlink:href="#OCRAStd-29" transform="translate(144 0)"/>
+    <use xlink:href="#OCRAStd-26" transform="translate(216 0)"/>
+    <use xlink:href="#OCRAStd-33" transform="translate(288 0)"/>
+    <use xlink:href="#OCRAStd-30" transform="translate(360 0)"/>
+    <use xlink:href="#OCRAStd-2f" transform="translate(432 0)"/>
+    <use xlink:href="#OCRAStd-1" transform="translate(504 0)"/>
+    <use xlink:href="#OCRAStd-33" transform="translate(576 0)"/>
+    <use xlink:href="#OCRAStd-26" transform="translate(648 0)"/>
+    <use xlink:href="#OCRAStd-34" transform="translate(720 0)"/>
+    <use xlink:href="#OCRAStd-26" transform="translate(792 0)"/>
+    <use xlink:href="#OCRAStd-22" transform="translate(864 0)"/>
+    <use xlink:href="#OCRAStd-33" transform="translate(936 0)"/>
+    <use xlink:href="#OCRAStd-24" transform="translate(1008 0)"/>
+    <use xlink:href="#OCRAStd-29" transform="translate(1080 0)"/>
+    <use xlink:href="#OCRAStd-1" transform="translate(1152 0)"/>
+    <use xlink:href="#OCRAStd-10" transform="translate(1224 0)"/>
+    <use xlink:href="#OCRAStd-10" transform="translate(1296 0)"/>
+    <use xlink:href="#OCRAStd-1" transform="translate(1368 0)"/>
+    <use xlink:href="#OCRAStd-34" transform="translate(1440 0)"/>
+    <use xlink:href="#OCRAStd-35" transform="translate(1512 0)"/>
+    <use xlink:href="#OCRAStd-36" transform="translate(1584 0)"/>
+    <use xlink:href="#OCRAStd-25" transform="translate(1656 0)"/>
+    <use xlink:href="#OCRAStd-3a" transform="translate(1728 0)"/>
+    <use xlink:href="#OCRAStd-1" transform="translate(1800 0)"/>
+    <use xlink:href="#OCRAStd-13" transform="translate(1872 0)"/>
+    <use xlink:href="#OCRAStd-1" transform="translate(1944 0)"/>
+    <use xlink:href="#OCRAStd-10" transform="translate(2016 0)"/>
+    <use xlink:href="#OCRAStd-10" transform="translate(2088 0)"/>
+    <use xlink:href="#OCRAStd-1" transform="translate(2160 0)"/>
+    <use xlink:href="#OCRAStd-33" transform="translate(2232 0)"/>
+    <use xlink:href="#OCRAStd-36" transform="translate(2304 0)"/>
+    <use xlink:href="#OCRAStd-2f" transform="translate(2376 0)"/>
+    <use xlink:href="#OCRAStd-1" transform="translate(2448 0)"/>
+    <use xlink:href="#OCRAStd-30" transform="translate(2520 0)"/>
+    <use xlink:href="#OCRAStd-2f" transform="translate(2592 0)"/>
+    <use xlink:href="#OCRAStd-26" transform="translate(2664 0)"/>
+   </g>
+  </g>
+  <g id="text_33">
+   <!-- How often a pure zoom is reported as a dolly -->
+   <g style="fill: #ffffff; opacity: 0.92" transform="translate(20.16 48.37793) scale(0.13 -0.13)">
+    <defs>
+     <path id="SFProDisplay-Regular-59" d="M 4038 0 
+L 4038 4509 
+L 3475 4509 
+L 3475 2559 
+L 1000 2559 
+L 1000 4509 
+L 438 4509 
+L 438 0 
+L 1000 0 
+L 1000 2053 
+L 3475 2053 
+L 3475 0 
+L 4038 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="SFProDisplay-Regular-2ee" d="M 528 4034 
+L 528 3250 
+L 44 3250 
+L 44 2803 
+L 528 2803 
+L 528 844 
+C 528 219 759 -25 1356 -25 
+C 1484 -25 1634 -16 1700 0 
+L 1700 456 
+C 1663 450 1538 441 1475 441 
+C 1197 441 1072 575 1072 872 
+L 1072 2803 
+L 1703 2803 
+L 1703 3250 
+L 1072 3250 
+L 1072 4034 
+L 528 4034 
+z
+" transform="scale(0.015625)"/>
+     <path id="SFProDisplay-Regular-330" d="M 284 0 
+L 2709 0 
+L 2709 447 
+L 913 447 
+L 913 456 
+L 2700 2853 
+L 2700 3250 
+L 288 3250 
+L 288 2803 
+L 2084 2803 
+L 2084 2794 
+L 284 388 
+L 284 0 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#SFProDisplay-Regular-59"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(69.921875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-31a" transform="translate(123 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(194.53125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(215.046875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-263" transform="translate(268.125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2ee" transform="translate(298.5 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-249" transform="translate(327.15625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2a6" transform="translate(378.375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(431.0625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(451.578125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(501.78125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d5" transform="translate(522.296875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2f8" transform="translate(577.234375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(629.921875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-249" transform="translate(658.296875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(709.515625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-330" transform="translate(730.03125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(774.859375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(827.9375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2a2" transform="translate(881.015625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(961.34375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-277" transform="translate(981.859375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(1002.265625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1048.796875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(1069.3125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-249" transform="translate(1097.6875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d5" transform="translate(1148.90625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(1203.84375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(1256.921875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2ee" transform="translate(1287.734375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-249" transform="translate(1316.390625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-241" transform="translate(1367.609375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1422.984375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(1443.5 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(1493.703125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1540.234375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(1560.75 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1610.953125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-241" transform="translate(1631.46875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(1686.84375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-290" transform="translate(1739.921875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-290" transform="translate(1760.328125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-325" transform="translate(1780.734375 0)"/>
+   </g>
+  </g>
+  <g id="text_34">
+   <!-- Clips with a true zoom and no true dolly. Lower is better. -->
+   <g style="fill: #ffffff; opacity: 0.55" transform="translate(20.16 60.88541) scale(0.095 -0.095)">
+    <defs>
+     <path id="SFProDisplay-Regular-26d" d="M 381 0 
+L 925 0 
+L 925 1894 
+C 925 2456 1259 2825 1800 2825 
+C 2309 2825 2569 2516 2569 2000 
+L 2569 0 
+L 3113 0 
+L 3113 2100 
+C 3113 2825 2681 3306 1969 3306 
+C 1475 3306 1119 3094 938 2731 
+L 925 2731 
+L 925 4509 
+L 381 4509 
+L 381 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="SFProDisplay-Regular-49d" d="M 813 -31 
+C 1013 -31 1169 125 1169 325 
+C 1169 525 1013 681 813 681 
+C 613 681 456 525 456 325 
+C 456 125 613 -31 813 -31 
+z
+" transform="scale(0.015625)"/>
+     <path id="SFProDisplay-Regular-236" d="M 1969 -56 
+C 2800 -56 3350 603 3350 1625 
+C 3350 2644 2797 3306 1978 3306 
+C 1519 3306 1141 3078 938 2706 
+L 925 2706 
+L 925 4509 
+L 381 4509 
+L 381 0 
+L 900 0 
+L 900 550 
+L 913 550 
+C 1122 175 1494 -56 1969 -56 
+z
+M 1863 2828 
+C 2438 2828 2794 2363 2794 1625 
+C 2794 881 2438 422 1863 422 
+C 1313 422 922 900 922 1625 
+C 922 2347 1313 2828 1863 2828 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#SFProDisplay-Regular-26"/>
+    <use xlink:href="#SFProDisplay-Regular-290" transform="translate(68.609375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-277" transform="translate(89.015625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d5" transform="translate(109.421875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(164.359375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(210.890625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-31a" transform="translate(231.40625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-277" transform="translate(302.9375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2ee" transform="translate(323.34375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-26d" transform="translate(353.46875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(407.375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(427.890625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(478.09375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2ee" transform="translate(498.609375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(528.734375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2f8" transform="translate(559.546875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-249" transform="translate(612.234375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(663.453125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-330" transform="translate(683.96875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(728.796875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(781.875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2a2" transform="translate(834.953125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(915.28125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-1fa" transform="translate(935.796875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2a6" transform="translate(986 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-241" transform="translate(1038.6875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1094.0625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2a6" transform="translate(1114.578125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(1167.265625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1220.34375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2ee" transform="translate(1240.859375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(1270.984375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2f8" transform="translate(1301.796875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-249" transform="translate(1354.484375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1405.703125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-241" transform="translate(1426.21875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(1481.59375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-290" transform="translate(1534.671875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-290" transform="translate(1555.078125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-325" transform="translate(1575.484375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-49d" transform="translate(1616.734375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1637.25 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-8c" transform="translate(1657.765625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2b0" transform="translate(1708.734375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-31a" transform="translate(1761.8125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-249" transform="translate(1833.34375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(1884.5625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(1915.375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-277" transform="translate(1935.890625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2e3" transform="translate(1956.296875 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-3" transform="translate(2002.828125 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-236" transform="translate(2023.34375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-249" transform="translate(2078.765625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2ee" transform="translate(2129.984375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2ee" transform="translate(2160.109375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-249" transform="translate(2188.765625 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-2d9" transform="translate(2239.984375 0)"/>
+    <use xlink:href="#SFProDisplay-Regular-49d" transform="translate(2265.921875 0)"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="peee858a4b9">
+   <rect x="158.4" y="95.04" width="287.660377" height="167.904"/>
+  </clipPath>
+  <clipPath id="p791848e0a1">
+   <rect x="480.579623" y="95.04" width="287.660377" height="167.904"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,5 @@
+mix,label,val_exact_mean,S1_combos_diff_s0,S1_combos_ci_s0,S2_human_moving_diff_s0,S2_human_moving_ci_s0,S3_test_scenes_exact_s0,pass_s0,S1_combos_diff_s1,S1_combos_ci_s1,S2_human_moving_diff_s1,S2_human_moving_ci_s1,S3_test_scenes_exact_s1,pass_s1,picked_on_val
+DG,D-G grammar,0.695,-0.046,-0.104 to +0.010,-0.3497,-0.390 to -0.311,0.839,False,-0.038,-0.092 to +0.018,-0.3129,-0.351 to -0.273,0.874,False,False
+DF,D-F free-form,0.685,-0.158,-0.212 to -0.106,-0.3098,-0.348 to -0.271,0.797,False,-0.2,-0.254 to -0.144,-0.2914,-0.331 to -0.252,0.796,False,False
+DH,D-H human,0.3192,-0.49,-0.532 to -0.446,-0.408,-0.448 to -0.371,0.277,False,-0.484,-0.530 to -0.438,-0.362,-0.399 to -0.321,0.272,False,False
+DGFH,D-GFH mix,0.7425,-0.136,-0.192 to -0.078,-0.1431,-0.184 to -0.104,0.859,False,-0.138,-0.194 to -0.078,-0.1268,-0.166 to -0.088,0.866,False,True
