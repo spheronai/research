@@ -2,23 +2,7 @@
 
 Week 1, checked 24 Nov 2026. Research only. Every claim below links to the page that backs it. Anything marked **unverified** could not be confirmed from a primary page during this check.
 
-## Verdict: GO, with a changed angle
-
-Nobody has shipped all three of these together: open weights, an importable per-frame camera path with focal length, and named moves, measured on a benchmark. The closest work, CameraVLM, does two of the three on paper but has not released weights, exports only NumPy arrays, and its poses are well behind VGGT. So the gap is real. But the plain "SfM gets geometry, VLMs get names" pitch from CameraBench is already being answered by at least four 2026 papers. We need a sharper claim.
-
-**Changed angle we recommend:**
-
-1. **Do not train a new pose model.** Sit on top of a commercially usable geometry backbone (VGGT-1B-Commercial, MapAnything-apache, or the Apache-licensed Depth Anything 3 sizes) and put our effort into the parts nobody owns:
-   - **Zoom and focal length over time.** This is the clearest measured hole. Geometry methods score badly on zoom in CameraBench.
-   - **Temporal segmentation with speed and easing** ("eases out").
-   - **Clean export** to Blender, USD, FBX, Nuke and the RealEstate10K-style text file that Wan Fun Camera and CameraCtrl read.
-2. **Make the "re-shoot test" the headline benchmark.** No paper found here scores a predicted camera by re-rendering the scene with it.
-3. **Report the standard numbers alongside it.** That means CameraBench (eval only) and, where licences allow, CamChoreo and ACaM-Bench, so the move-naming half is comparable to existing work.
-4. **Licensing is a selling point.** Most strong geometry baselines are non-commercial. An Apache-licensed end-to-end tool would be unusual.
-
-**Risk to watch:** CameraVLM could publish weights at any time. If it does, it becomes the main baseline for both halves, and we compare on export quality, zoom and the re-shoot test.
-
-### Three most important findings
+## Three most important findings
 
 1. **CameraVLM is the closest prior art, and it is not released.** It was posted to arXiv on 12 Oct 2026 as [a 9B VLM with a camera head and flow tokens](https://arxiv.org/abs/2610.17242).
    - [Its README](https://github.com/nicolascc1/CameraVLM) shows an API that returns `camera_to_world`, `intrinsics` and point tracks in a `geometry.npz` file, plus a JSON with `primary_motion`, `direction` and `confidence`.
@@ -134,7 +118,7 @@ Searched arXiv, Hugging Face, GitHub, Blender Artists and web search for: camera
 - **Outputs.** Exports `camera_motion.json` and Blender import scripts.
 - **Limits.** No translation or parallax, so it cannot tell a dolly from a zoom. No accuracy benchmark.
 
-**Matters as a demand signal and as the incumbent for the creator use case.**
+**Matters as the incumbent for the creator use case.**
 
 ### 9. Geometry-to-Blender add-ons (no move names)
 
@@ -296,24 +280,6 @@ Core ComfyUI also has [a WanCameraEmbedding node](https://docs.comfy.org/built-i
 7. Nuke `.chan`.
 
 A rendered point-cloud guide video for Uni3C is a nice extra, not a requirement.
-
----
-
-## Q6. Demand signals
-
-Reddit could not be checked: the search and fetch tools refuse reddit.com for automated clients. The r/vfx, r/blender, r/comfyui and r/StableDiffusion threads need a manual look (**unverified**).
-
-- **1 Sep 2023, Blender Artists.** [Thread](https://blenderartists.org/t/isnt-there-any-a-i-tool-that-can-extract-camera-motion-from-a-given-video/1480894) asking for an AI tool that takes a video and extracts the camera move for Blender, because the built-in tracker "gets distracted" by moving objects. Replies point to Meshroom, KeenTools GeoTracker and Wonder Dynamics. No one-click answer.
-- **4 May 2025, VGGT GitHub.** [Issue #120](https://github.com/facebookresearch/vggt/issues/120): a request to add camera export (Collada) to the demo for setting up scenes in Blender, Maya and 3ds Max. The user pasted their own export code.
-- **23 Jun 2025, VGGT GitHub.** [Issue #198](https://github.com/facebookresearch/vggt/issues/198): a user built a VGGT Blender add-on and asks for a packaged tool "for CG artists and 3D modelers".
-- **25 Jul 2025, Pi3 GitHub.** [Issue #22](https://github.com/yyfz/Pi3/issues/22): same author, Pi3 Blender add-on.
-- **3 Dec 2025, Depth Anything 3 GitHub.** [Issue #128](https://github.com/ByteDance-Seed/Depth-Anything-3/issues/128): "How can I obtain the motion trajectory coordinates of the camera".
-- **Dec 2025, Adobe Firefly.** Shipped [camera motion reference](https://www.newscaststudio.com/2025/12/16/adobe-expands-firefly-with-ai-video-editing-tools-and-partner-model-integrations): upload a reference clip to copy its pans, zooms and tilts into a generation. A large vendor productising "copy this camera move".
-- **19 May 2026, VGGT-Omega GitHub.** [Issue #21](https://github.com/facebookresearch/vggt-omega/issues/21), with 11 comments, asks how to export Omega results to COLMAP since the old VGGT export scripts may not work.
-- **Jul 2026, Motion Previs Studio.** [The app](https://github.com/wassermanproductions/motion-previs-studio) reached 385 stars by offering "Camera only" extraction for AI filmmakers, exporting to Blender and ComfyUI bundles.
-- **Oct 2026, CEB_MegaSam.** [The add-on](https://github.com/carlosedubarreto/CEB_MegaSam) wraps MegaSaM camera tracking inside Blender.
-
-**Pattern:** people keep building one-off bridges from research pose models into Blender. Creators want "copy this move" without a full matchmove. Nobody gives them a camera they can edit together with a plain-language description of the move.
 
 ---
 
