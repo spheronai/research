@@ -32,7 +32,7 @@ Study pages: [study 1](https://www.spheron.network/research/qwen38-27b-fp8-vs-nv
 
 ## History
 
-These studies were first published under `research/` in the GPU Benchmarks repository (releases 2026.11.24 and 2026.11.25) and moved here on 2026-11-25 with their git history. Links to the old folders point here.
+These studies were first published in the GPU Benchmarks repository (releases 2026.11.24 and 2026.11.25) and moved here on 2026-11-25 with their git history.
 
 ## License
 
