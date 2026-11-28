@@ -1,0 +1,11 @@
+stop_reason,A_trials,A_resolved,B_trials,B_resolved,C_trials,C_resolved
+submitted,301,230,266,211,280,235
+format_errors,109,52,62,24,110,48
+context_limit,64,27,147,74,102,49
+time_limit,53,24,40,23,35,19
+step_limit,14,10,18,9,8,6
+endpoint_error,3,3,2,2,3,2
+other_agent_exit,11,3,20,8,16,5
+auth_error,0,0,0,0,0,0
+safety_refusal,0,0,0,0,0,0
+verifier_error,0,0,0,0,1,0

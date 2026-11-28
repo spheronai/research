@@ -1,0 +1,3 @@
+arm,precision,tasks,diff,ci95_lo,ci95_hi,verdict
+B,FP8,110,-0.0033,-0.0476,0.0417,no measurable loss
+C,NVFP4,109,0.032,-0.0124,0.0768,no measurable loss

@@ -23,3 +23,5 @@ raw/
 .DS_Store
 .pytest_cache/
 !/*/jobs/*.jsonl
+# Study scripts kept under stage1/raw/env/ (VM setup and runner scripts, no run output)
+!/*/stage1/raw/
