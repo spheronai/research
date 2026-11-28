@@ -1,0 +1,4 @@
+arm,context_trials,tasks_with_any_context_hit,median_calls_at_hit,median_tool_chars_at_hit,median_assistant_chars_at_hit,median_reasoning_chars_at_hit,median_repeated_calls_at_hit,median_calls_other,trials_at_150_calls,format_error_exits,context_hit_resolved_share,median_output_tokens_all,median_output_tokens_per_call_all
+A,64,44,150.0,276368.5,122967.5,121979.5,0.0,80,72,109,0.4219,29725,323.5
+B,147,64,150,289325,105046,103774,0,83.0,119,62,0.5034,29689,287.6
+C,102,55,141.5,289441.0,112342.0,111561.0,0.0,94,98,110,0.4804,31012,286.9

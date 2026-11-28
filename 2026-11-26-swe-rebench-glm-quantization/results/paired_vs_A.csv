@@ -1,0 +1,5 @@
+scope,arm,precision,vs,tasks,diff,ci95_lo,ci95_hi,verdict
+all_111,B,FP8,A (BF16),111,0.0036,-0.0378,0.045,no measurable loss
+all_111,C,NVFP4,A (BF16),111,0.027,-0.0162,0.0703,no measurable loss
+offline_108,B,FP8,A (BF16),108,0.0,-0.0426,0.0426,no measurable loss
+offline_108,C,NVFP4,A (BF16),108,0.0241,-0.0167,0.0667,no measurable loss

@@ -5,8 +5,8 @@ type: dataset
 authors:
   - name: "Spheron Research"
     website: "https://www.spheron.network/research/"
-version: "2026.11.25"
-date-released: "2026-11-25"
+version: "2026.11.28"
+date-released: "2026-11-28"
 repository-code: "https://github.com/spheronai/research"
 url: "https://github.com/spheronai/research"
 license:
@@ -23,3 +23,5 @@ keywords:
   - camera motion
   - depth anything
   - benchmark
+  - coding agents
+  - swe-rebench
